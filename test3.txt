@@ -1,0 +1,3 @@
+This is the test3.txt file
+akama is a japanese character which plays the role of mano.
+
